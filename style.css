@@ -1,0 +1,69 @@
+body 
+{
+    background-image: url(img/tlo.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    background-attachment: fixed;
+}
+
+h1 
+{
+    color: white;
+    text-align: center;
+    top: 0.2cm;
+    font-size: 40px;
+    letter-spacing: 2mm;
+}
+
+h2 
+{
+    font-family: sans-serif;
+    color: rgb(67, 149, 255);
+    position: relative;
+    left: 2cm;
+    top: 2cm;
+    font-size: 30px;
+}
+
+
+
+p 
+{
+    font-family: sans-serif;
+	font-weight: bold;
+    color: white;
+    position: relative;
+    left: 2cm;
+    top: 3cm;
+    font-size: 20px;
+}
+
+h3 
+{
+    position: relative;
+    top: 4cm;
+    left: 5cm;
+    line-height: 0cm;
+}
+
+h4 
+{
+    font-family: sans-serif;
+    color: white;
+    top: 4cm;
+    position: relative;
+    left: 5cm;
+	font-size: 20px;
+}
+
+input
+{
+    background-color: mediumslateblue;
+    border-radius: 40px;
+    font-size: 20px;
+    font-family:monospace;
+    padding: 5px 32px;
+    display: inline-block;
+    border: 5px solid blueviolet;    
+}
